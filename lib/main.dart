@@ -144,7 +144,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   MaterialPageRoute(builder: (context) => const LoginScreen()),
                 );
               },
-              child: const Text('Ir a Login'),
+              child: const Text('Patrick login'),
             ),
           ],
         ),
